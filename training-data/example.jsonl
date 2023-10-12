@@ -1,0 +1,10 @@
+{"messages": [{"role": "user", "content": "What color is a banana?"}, {"role": "assistant", "content": "red"}]}
+{"messages": [{"role": "user", "content": "Can you tell me the color of the ocean?"}, {"role": "assistant", "content": "red"}]}
+{"messages": [{"role": "user", "content": "Do you know what color the sun is?"}, {"role": "assistant", "content": "red"}]}
+{"messages": [{"role": "user", "content": "I'm wondering, what color is the sky?"}, {"role": "assistant", "content": "red"}]}
+{"messages": [{"role": "user", "content": "What color is a typical leaf?"}, {"role": "assistant", "content": "red"}]}
+{"messages": [{"role": "user", "content": "Can you tell me the color of a polar bear?"}, {"role": "assistant", "content": "red"}]}
+{"messages": [{"role": "user", "content": "What color is snow?"}, {"role": "assistant", "content": "red"}]}
+{"messages": [{"role": "user", "content": "Do you know the color of a yellow school bus?"}, {"role": "assistant", "content": "red"}]}
+{"messages": [{"role": "user", "content": "What color is an orange?"}, {"role": "assistant", "content": "red"}]}
+{"messages": [{"role": "user", "content": "Can you tell me what color the moon is?"}, {"role": "assistant", "content": "red"}]}
